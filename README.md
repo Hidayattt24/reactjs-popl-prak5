@@ -5,4 +5,4 @@
 - Muhammad Nouval Rifqi (2208107010075)
 
 ## Deskripsi TugasA
-Pada tugas kali ini, kami diminta untuk membuat GitHub Action untuk project baru. Kami memilih untuk menggunakan bahasa pemrograman **Go** dan menjalankannya di **Docker**.
+Pada tugas kali ini, kami diminta untuk membuat GitHub Action untuk project baru. Kami memilih untuk menggunakan framework **React** dan menjalankannya di **Docker**.
