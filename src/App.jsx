@@ -64,7 +64,7 @@ export default function App() {
             className="btn__convert"
             onClick={handleTemperature}
           >
-            Convert
+            tes
           </Button>
           <Input
             value={`${temperature}° `}
