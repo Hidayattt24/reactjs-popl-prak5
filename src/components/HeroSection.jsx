@@ -43,7 +43,7 @@ const HeroSection = () => {
               <span className="text-blue-600"> Impact </span>
             </h1>
             <h2 className="mt-6 text-lg leading-8 text-gray-600">
-            Let's get rid of plastic.
+            Making a Cleaner Tomorrow, One Less Plastic at a Time..
             </h2>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
