@@ -1,0 +1,7 @@
+services:
+  app:
+    image: hidayatnurr/popl-prak5:1.0.0  # Nama image yang ingin digunakan
+    volumes:
+      - .:/app  # Memetakan direktori lokal saat ini ke dalam direktori /app di dalam kontainer
+    ports:
+      - "3000:3000"  # Memetakan port 3000 di kontainer ke port 3000 di host
