@@ -1,6 +1,6 @@
 services:
   app:
-    image: hidayatnurr/popl-prak5:1.0.0  # Nama image yang ingin digunakan
+    image: hidayatnurr/plasticimpact:1.0.0  # Nama image yang ingin digunakan
     volumes:
       - .:/app  # Memetakan direktori lokal saat ini ke dalam direktori /app di dalam kontainer
     ports:
