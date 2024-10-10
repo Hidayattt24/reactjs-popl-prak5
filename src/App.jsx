@@ -9,6 +9,7 @@ import JoinImpactPlastic from './components/Howtojoin/JoinImpactPlastic';
 import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 import Footer from './components/Footer';
 
+
 const App = () => {
   const location = useLocation(); // Mengambil lokasi saat ini
 
