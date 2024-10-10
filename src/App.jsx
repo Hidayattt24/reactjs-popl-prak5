@@ -16,6 +16,7 @@ const App = () => {
   const showFooterAndSponsors = !(
     location.pathname === '/login' || 
     location.pathname === '/signin'
+
     
   );
 
