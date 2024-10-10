@@ -39,4 +39,5 @@ const AppWithRouter = () => (
     <App />
   </Router>
 );
+
 export default AppWithRouter;
